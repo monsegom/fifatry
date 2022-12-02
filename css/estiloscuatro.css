@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: radial-gradient(50% 50% at 50% 50%, #5E032D 0%, #1F0010 100%);
+}
+#BT5{
+    
+position: absolute;
+width: 1347px;
+height: 862px;
+left: 49px;
+top: 40px;
+
+}
+#BT6{
+    position: absolute;
+width: 41px;
+height: 43px;
+left: 1138px;
+top: 51px;
+
+}
+#BT11{
+    position: absolute;
+width: 75px;
+height: 55px;
+left: 1198px;
+top: 40px;
+}
